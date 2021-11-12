@@ -1,3 +1,4 @@
+Cython
 numpy>=1.18.2
 onnx>=1.7.0
 python-dateutil

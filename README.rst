@@ -29,6 +29,8 @@
 
 **NVIDIA NeMo**
 ===============
+**Important: The README.md file for Programming for the MSc Voice Technology can be found in the folder 'assignment7'. There you will find specific instructions on how to replicate our task.**
+------------
 
 Introduction
 ------------
