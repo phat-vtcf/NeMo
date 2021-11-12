@@ -12,16 +12,9 @@ For GPU purposes, this notebook works best as a Google Colab notebook with a rec
 
 NVIDIA NeMo is a conversational AI toolkit built for researchers working on automatic speech recognition (ASR), natural language processing (NLP), and text-to-speech synthesis (TTS). The primary objective of NeMo is to help researchers from industry and academia to reuse prior work (code and pretrained models and make it easier to create new conversational AI models.
 
-**How to install**
+## How to use
 
-In the notebook in this folder **audio_translation_demo.ipynb**, you will find the instructions for doing your own audio translation in Google Colab.
-If you would like to try it on another platform, you can use the following installation mode if you want the latest released version of the NeMo toolkit (in a Linux environment).
-
-```sh
-apt-get update && apt-get install -y libsndfile1 ffmpeg
-pip install Cython
-pip install nemo_toolkit['all']
-```
+In the notebook in this folder **audio_translation_demo.ipynb**, you will find the instructions for doing your own audio translation.
 
 ## How does it work?
 The audio translator:
